@@ -1,4 +1,3 @@
-# test
-Hello
-My name is Tony Chen, I love machine learning.
-I also love cooking.
+# Study Notes in Machine Learning
+
+Converting a 300-page notes on machine learning (both mathematics and code) to a complete online book.
